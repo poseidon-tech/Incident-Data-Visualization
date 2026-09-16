@@ -1,4 +1,4 @@
-# CIS6930FA24 -- Project 3: End Pipeline
+Data Visualizaton Pipeline
 
 **Name:** Prajay Yalamanchili
 
